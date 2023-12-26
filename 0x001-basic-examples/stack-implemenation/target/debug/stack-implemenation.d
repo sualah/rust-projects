@@ -1,0 +1,1 @@
+/Users/sualah/Desktop/projects/rust-projects/0x001-basic-examples/stack-implemenation/target/debug/stack-implemenation: /Users/sualah/Desktop/projects/rust-projects/0x001-basic-examples/stack-implemenation/src/main.rs
